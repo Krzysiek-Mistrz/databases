@@ -1,4 +1,4 @@
-# databases
+# Databases
 EN: Small repo with queries containing all the necessary keywords, instructions (SELECT, FROM, WHERE, FUNCTIONS, ORDER BY, etc...) for the matura exam from IT.
 PL: Małe repo zawierające wszystkie potrzebne słowa kluczowe, instrukcje (SELECT, FROM, WHERE, FUNCTIONS, ORDER BY, etc...) używane na maturze z IT.
 ========================================================================
